@@ -1,25 +1,10 @@
+ST10489805 RILWELE SUCCESS KHANGALE
 Lecturer: WELCOME
 Date:12 November 2025
- 
-MODULE: MOBILE APP SCRIPTING
+ MODULE: MOBILE APP SCRIPTING
 Assignment: Final Portfolio of Evidence (PoE)
  
  
-Contents
-Chef’s Menu App — Final Portfolio of Evidence (PoE)	2
-Overview	2
-Learning Outcomes Demonstrated	2
-Feedback from Part 2 and Improvements	2
-Final Features Implemented	3
-Loops and Functions Demonstrated	5
-Change Log	5
-Screenshots	6
-Features	9
-Technologies Used	10
-Setup & Installation	11
-Video Demonstration	11
-GitHub Repository	12
-References	13
 
 
 
@@ -46,6 +31,9 @@ The Chef’s Menu App allows a chef to manage menu items and a guest to browse a
 It uses loops, functions, and global variables to process and organize data efficiently.
 All requested features and learning outcomes are now complete and fully functional.
 
+
+
+
  Learning Outcomes Demonstrated
 1.	 Use of for loops to solve programming problems.
 2.	Use of while loops for validation and control flow.
@@ -54,6 +42,8 @@ All requested features and learning outcomes are now complete and fully function
 5.	 Use of global variables (via React Context API).
 6.	Refactoring and code organization across multiple files.
 
+
+ 
  Feedback from Part 2 and Improvements
 Feedback from Lecturer	Action Taken	Result
 “Feature implemented with some bugs.”	Fixed data duplication and improved state management when adding/removing items.	Add and remove now work perfectly.
@@ -148,8 +138,10 @@ Rubric Reference: “Use of loops, functions, and variables” (15 Marks)
 🏠 Home Screen
    
 
- 
+ <img width="304" height="641" alt="image" src="https://github.com/user-attachments/assets/95188a5c-66f5-4b33-b91c-4ccc8143f320" />
 
+
+<img width="237" height="492" alt="image" src="https://github.com/user-attachments/assets/66979ae9-d022-4d5b-b8c9-8407e0da1f00" />
 
 
 
@@ -161,8 +153,10 @@ Rubric Reference: “Use of loops, functions, and variables” (15 Marks)
 
    
  
+<img width="363" height="745" alt="image" src="https://github.com/user-attachments/assets/9d6fdc9d-c426-4f37-9be4-3b1e21dfdea2" />
 
 
+<img width="350" height="734" alt="image" src="https://github.com/user-attachments/assets/3a023d39-6de1-4dba-b86a-32a1d52511f6" />
 
 
 
@@ -178,6 +172,7 @@ Rubric Reference: “Use of loops, functions, and variables” (15 Marks)
 
  
 
+<img width="438" height="890" alt="image" src="https://github.com/user-attachments/assets/4e75ec5d-98a5-4a36-b978-42f5abfb7ffc" />
 
 
 
@@ -189,7 +184,11 @@ Rubric Reference: “Use of loops, functions, and variables” (15 Marks)
 
 SPLASHSCREEN
 
- 
+
+
+
+ <img width="690" height="624" alt="image" src="https://github.com/user-attachments/assets/1f5ecd04-5e87-4fbf-9ef7-f5fffd444ed4" />
+
 
  Features
 
